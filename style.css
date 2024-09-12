@@ -1,31 +1,42 @@
 body{
-    background-color: rgb(159, 217, 235);
-    font-family: "Abril Fatface", serif;
+    background-color: rgb(198, 222, 243);
+    font-family: "DM Serif Display", serif;
     font-weight: 400;
     font-style: normal;
 }
 h1 {
     text-align: center;
     font-size: 42px;
-    background-color:rgba(105, 165, 199, 0.644);
+    background-color:rgb(57, 114, 167);
     color: black;
 }
 p {
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
 }
-.beluga {
-}
-.belugas-img {
+.beluga-img {
     width: 300px;
 }
-.beluga-desc {
-}
-.box {
-    width: 600px;
-    height: 500px;
+.belugapost {
+    width: 300px;
+    height: 425px;
     background-color: rgb(227, 237, 252);
-    margin: 0 auto; /*margin ,x= how far it is from another, auto centers objects*/
-    border: 3px solid rgb(57, 114, 167);
-    padding: 30px 20px; /*spacing within object*/
+    font-size: 15px;
+    margin: 30 auto; /*margin ,x= how far it is from another, auto centers objects*/
+    border: 5px solid rgb(57, 114, 167);
+}
+.seahorse-img {
+    height: 350px;
+    margin: 10 auto;
+    display: block;
+
+}
+.seahorsepost {
+    width: 300px;
+    height: 425px;
+    background-color: rgb(227, 237, 252);
+    font-size: 15px;
+    margin: 30 auto;
+    border: 5px solid rgb(57, 114, 167);
+    padding: 30px 20px;
 }
