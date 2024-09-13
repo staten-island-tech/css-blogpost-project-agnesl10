@@ -12,31 +12,49 @@ h1 {
 }
 p {
     text-align: center;
-    font-size: 16px;
+    font-size: 15px;
+
 }
 .beluga-img {
     width: 300px;
+    margin: 10 auto;
+    display: block;
 }
 .belugapost {
-    width: 300px;
+    width: 400px;
     height: 425px;
     background-color: rgb(227, 237, 252);
-    font-size: 15px;
+    font-size: 14px;
     margin: 30 auto; /*margin ,x= how far it is from another, auto centers objects*/
     border: 5px solid rgb(57, 114, 167);
 }
 .seahorse-img {
-    height: 350px;
+    height: 73%;
     margin: 10 auto;
     display: block;
 
 }
 .seahorsepost {
-    width: 300px;
-    height: 425px;
-    background-color: rgb(227, 237, 252);
-    font-size: 15px;
+    width: 360px;
+    height: 430px;
+    background-color: rgb(209, 198, 241);
+    font-size: 14px;
     margin: 30 auto;
-    border: 5px solid rgb(57, 114, 167);
+    border: 5px solid rgb(105, 100, 179);
+    padding: 30px 20px;
+}
+.turtle-img {
+    height: 60%;
+    margin: 10 auto;
+    display: block;
+
+}
+.turtlepost {
+    width: 360px;
+    height: 320px;
+    background-color: rgb(161, 211, 211);
+    font-size: 14px;
+    margin: 30 auto;
+    border: 5px solid rgb(43, 147, 155);
     padding: 30px 20px;
 }
